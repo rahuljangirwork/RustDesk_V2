@@ -106,8 +106,8 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["139.196.88.112"];
-pub const RS_PUB_KEY: &str = "ivmJmpuDaWxOPJnsS42INvS5Z1DtMcjePPHzojTQLg0=";
+pub const RENDEZVOUS_SERVERS: &[&str] = &["rahul-rustdesk.duckdns.org"];
+pub const RS_PUB_KEY: &str = "QiF8vd49C130Ij7SF3O82HOSs268gHzaJ4PBXOUZzw4=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
