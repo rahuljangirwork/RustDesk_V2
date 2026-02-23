@@ -1046,7 +1046,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "https://sos.noahsuzhou.com".to_owned()
+    "https://rahul-rustdesk.duckdns.org".to_owned()
 }
 
 #[inline]
